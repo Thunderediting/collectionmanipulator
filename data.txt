@@ -1,2 +1,0 @@
-today i learned about the python file handling.
-today was a great day
